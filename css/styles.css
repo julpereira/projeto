@@ -1,0 +1,28 @@
+h1{
+    text-align: center;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    background-color: blue;
+}
+.img1{
+    position: relative;
+    height: 3%;
+    left: 10%;
+}
+a{
+    font-size: 100%;
+    text-decoration: dashed;
+}
+h2{
+    text-align: center;
+}
+h3{
+    text-align: center;
+ }
+
+.filme2{
+    width: 10%;
+    right: 40%;
+}
+h5{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
